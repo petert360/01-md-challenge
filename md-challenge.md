@@ -44,3 +44,32 @@ Also, everything you need us at <https://bit.ly/beyondcode-markdown>.
   - Slack
   - Facebook Messenger
 
+## Escape Test
+
+> It's easier to ask forgiveness \
+> than it is to get permission  
+> `-` Grace Hopper \
+
+|**Markdown**|**Render**|
+|-|-|
+|`**bold`, `_italic_`|**bold**, _italic_|
+|`` `code` ``, `~strike~`|`code`, ~~strike~~|
+|`em***bold***en`|em***bold***en|
+
+```go
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World")
+}
+```
+
+````text
+```go
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World")
+}
+```
+````
