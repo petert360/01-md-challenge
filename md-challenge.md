@@ -84,8 +84,8 @@ em***bold***en
 
 ## Reminder
 
-[x] Get logos  
-[ ] Check spacing, styles, syntax, etc
+- [x] Get logos  
+- [ ] Check spacing, styles, syntax, etc
 
 ## Resources
 
