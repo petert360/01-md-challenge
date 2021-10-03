@@ -52,9 +52,9 @@ Also, everything you need us at <https://bit.ly/beyondcode-markdown>.
 
 |**Markdown**|**Render**|
 |-|-|
-|`**bold`, `_italic_`|**bold**, _italic_|
-|`` `code` ``, `~strike~`|`code`, ~~strike~~|
-|`em***bold***en`|em***bold***en|
+|\*\*bold\*\*, \_italic\_|**bold**, _italic_|
+|\`code\`, \~~strike\~~|`code`, ~~strike~~|
+|em\*\*\*bold\*\*\*en|em***bold***en|
 
 ```go
 import "fmt"
