@@ -37,10 +37,10 @@ Also, everything you need us at <https://bit.ly/beyondcode-markdown>.
 |Facebook Messenger |![Github logo](github-4242369951.png)|
 
 - Winners :trophy:
-    1. Github
-    2. Sackoverflow
-    3. Discord
+  1. Github
+  2. Sackoverflow
+  3. Discord
 - Honorable Mention :+1:
-    - Slack
-    - Facebook Messenger
+  - Slack
+  - Facebook Messenger
 
