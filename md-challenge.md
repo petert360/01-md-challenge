@@ -99,9 +99,9 @@ em***bold***en
 
 Use _Google Images_ to find the images used here:
 
-- markdown logo png imegesize:**500x308**
-- github logo png imegesize:64x64
-- discord logo png imegesize:64x64
-- stackoverflow logo png imegesize:**128x128**
-- facebook logo png imegesize:64x64
-- slack logo png imegesize:64x64
+- markdown logo png imagesize:**500x308**
+- github logo png imagesize:64x64
+- discord logo png imagesize:64x64
+- stackoverflow logo png imagesize:**128x128**
+- facebook logo png imagesize:64x64
+- slack logo png imagesize:64x64
