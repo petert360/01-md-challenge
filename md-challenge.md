@@ -48,7 +48,7 @@ Also, everything you need us at <https://bit.ly/beyondcode-markdown>.
 
 > It's easier to ask forgiveness \
 > than it is to get permission  
-> `-` Grace Hopper \
+> \- Grace Hopper
 
 |**Markdown**|**Render**|
 |-|-|
@@ -73,3 +73,26 @@ func main() {
 }
 ```
 ````
+
+````text
+~~~md
+**bold**, _italic_  
+~code~, ~~strike~~  
+em***bold***en  
+~~~
+````
+
+## Reminder
+
+[x] Get logos  
+[ ] Check spacing, styles, syntax, etc
+
+## Resources
+
+### Images
+
+#### Goohle Images (h4)
+
+##### PNG Logos (h5)
+
+###### With `imagesize` (h6)
